@@ -26,7 +26,7 @@ DPlayCreateAccount.Home = CLASS({
 				top : 0,
 				width : '100%',
 				minHeight : '100%',
-				backgroundImage : '/DPlayCreateAccount/R/background.png'
+				backgroundImage : '/DPlayCreateAccount/R/background.jpg'
 			},
 			
 			contentStyle : {
